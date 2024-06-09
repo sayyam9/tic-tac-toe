@@ -1,0 +1,1 @@
+The "Unique Tic Tac Toe Game" is a console-based application developed in C#. It allows two players to play the classic Tic Tac Toe game on a 6x6 board. The game provides a colourful and interactive experience for players.
